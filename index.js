@@ -1,4 +1,13 @@
-const arr = [1, 2, 3, 4]; //[2,4,6,8]   //map  filter  reduce
+// const arr = [1, 2, 3, 4]; //[2,4,6,8]   //map  filter  reduce
 
-let map = arr.map((num) => num * 2);
-console.log(map);
+// let map = arr.map((num) => num * 2);
+// console.log(map);
+//var let const
+
+var a = 14;
+console.log(a);
+
+{
+  let b = 13;
+  console.log(b);
+}
